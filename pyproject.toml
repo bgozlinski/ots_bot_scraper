@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "rivalia-ots-bot"
+version = "0.1.0"
+description = ""
+authors = ["bgozlinski <bartlomiej.gozlinski@gmail.com>"]
+readme = ""
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^5.2.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
