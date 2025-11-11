@@ -46,9 +46,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 ]
 
-INSTALLED_EXTENSIONS = [
-    "scrapers",
-]
+INSTALLED_EXTENSIONS = []
 
 INSTALLED_APPS += INSTALLED_EXTENSIONS
 

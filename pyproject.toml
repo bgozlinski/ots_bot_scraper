@@ -9,7 +9,7 @@ readme = ""
 python = "^3.11"
 django = "^5.2.8"
 bandit = "^1.8.6"
-scrapy = "2.11.2"
+scrapy = "2.13.3"
 django-environ = ">=0.12.0,<0.13.0"
 
 [tool.poetry.group.dev.dependencies]
