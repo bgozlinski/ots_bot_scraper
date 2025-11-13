@@ -1,9 +1,10 @@
 [tool.poetry]
-name = "rivalia-ots-bot"
+name = "ots_bot_scraper"
 version = "0.1.0"
 description = ""
 authors = ["bgozlinski <bartlomiej.gozlinski@gmail.com>"]
 readme = ""
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
